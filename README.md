@@ -1,8 +1,5 @@
 I am a highly motivated and team-oriented Electrical and Electronics Engineer interested in applying my skills to the field of Data Science and Machine Learning. 
   
-@settings {
-  font-size: 100;
-}
 NHL Predict Wins - Machine Learning
   In my code "NHL Predict Wins - Machine Learning" I create a project from scratch. I analyze NHL hockey team statistics from 2005-2022, clean the data, and build a regression model to predict the number of wins for each team in the 2021/2022 season. The results are excitingly accurate! I create 8 different regression models and analyze the prediction results using a visualization and Mean Absolute Error, Mean Squared Error,	Median Squared Error,	Explain Variance Score, and	R2 Score.
 
